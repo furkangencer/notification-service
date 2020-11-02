@@ -26,4 +26,4 @@ echo '<SENDER_EMAIL_HERE>' > ses_sender.txt
 sls deploy -v
 ```
 
-Viola!
+Voila!
